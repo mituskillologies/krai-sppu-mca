@@ -1,0 +1,3 @@
+The datasets needed for these practicals can be downloaded from:
+
+https://mitu.co.in/dataset
